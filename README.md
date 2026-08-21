@@ -45,6 +45,10 @@
     <br>MySQL
   </td>
   <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+    <br>PostgreSQL
+  </td>
+  <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
     <br>MongoDB
   </td>
@@ -76,3 +80,4 @@
   </td>
 </tr>
 </table>
+
