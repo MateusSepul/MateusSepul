@@ -52,12 +52,12 @@
     <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
     <br>MongoDB
   </td>
+</tr>
+<tr>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
     <br>Linux
   </td>
-</tr>
-<tr>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=arch" width="48" height="48" alt="Arch" />
     <br>Arch
@@ -80,4 +80,3 @@
   </td>
 </tr>
 </table>
-
