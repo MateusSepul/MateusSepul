@@ -21,7 +21,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=arch" width="48"/><br/>Arch</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=debian" width="48"/><br/>Debian</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=ubuntu" width="48"/><br/>Ubuntu</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/freebsd/freebsd-original.svg" width="48"/><br/>FreeBSD</td>
+    <td align="center"><img src="https://devicons.io/devicons/icons/freebsd.svg" width="48"/><br/>FreeBSD</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=windows" width="48"/><br/>Windows</td>
   </tr>
 </table>
