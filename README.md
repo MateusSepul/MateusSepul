@@ -21,7 +21,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=arch" width="48"/><br/>Arch</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=debian" width="48"/><br/>Debian</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=ubuntu" width="48"/><br/>Ubuntu</td>
-    <td align="center"><img src="[assets/freebsd-beastie.png](https://neosmart.net/blog/wp-content/uploads/2025/12/freebsd-icon.png)" width="48"/><br/>FreeBSD</td>
+    [<td align="center"><img src="[assets/freebsd-beastie.png](https://neosmart.net/blog/wp-content/uploads/2025/12/freebsd-icon.png)" width="48"/><br/>FreeBSD</td>](https://www.freebsd.org/images/beastie-right.svg)
     <td align="center"><img src="https://skillicons.dev/icons?i=windows" width="48"/><br/>Windows</td>
   </tr>
 </table>
