@@ -67,9 +67,6 @@
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MateusSepul&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSepul&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
