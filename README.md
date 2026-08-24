@@ -78,9 +78,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MateusSepul&style=flat-square&color=blue" alt="visitor badge" />
 </p>
+
 ### Tech Stack
-
-
 <table align="center">
 <tr>
   <td align="center" width="96">
