@@ -62,8 +62,6 @@
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MateusSepul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
 
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MateusSepul&theme=tokyonight&hide_border=true" />
 </p>
