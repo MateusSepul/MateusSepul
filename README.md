@@ -34,11 +34,17 @@
 ### 🛠️ Stack principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,nodejs,html,css,react" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,py,cpp,nodejs" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,docker,fastapi,mysql,postgres,mongodb" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,arch,debian,ubuntu" />
+  <img src="https://devicons.io/devicons/icons/freebsd.svg" height="48" width="48" title="FreeBSD" />
+  <img src="https://skillicons.dev/icons?i=windows" />
 </p>
 
 ---
@@ -78,85 +84,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MateusSepul&style=flat-square&color=blue" alt="visitor badge" />
 </p>
-
-### Tech Stack
-<table align="center">
-<tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-    <br>TypeScript
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-    <br>JavaScript
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-    <br>Java
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
-    <br>Python
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-    <br>C++
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-    <br>Node.js
-  </td>
-</tr>
-<tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-    <br>React
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-    <br>Docker
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-    <br>FastAPI
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-    <br>MySQL
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-    <br>PostgreSQL
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-    <br>MongoDB
-  </td>
-</tr>
-<tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-    <br>Linux
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=arch" width="48" height="48" alt="Arch" />
-    <br>Arch
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=debian" width="48" height="48" alt="Debian" />
-    <br>Debian
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Ubuntu" />
-    <br>Ubuntu
-  </td>
-  <td align="center" width="96">
-    <img src="https://devicons.io/devicons/icons/freebsd.svg" width="48" height="48" alt="FreeBSD" />
-    <br>FreeBSD
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" />
-    <br>Windows
-  </td>
-</tr>
-</table>
