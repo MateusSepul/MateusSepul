@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Mateus 👋🐧</h1>
 
-<h3 align="center">Estagiário de Dados @ Saint-Gobain Brasil | Estudante de ADS | Dev Python & Automação</h3>
+<h3 align="center">Estagiário de Planejamento | Estudante de ADS | Dev Python & Automação</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Analista+e+Desenvolvedor+de+Sistemas;Automa%C3%A7%C3%A3o+de+Processos+com+Python;Full+Stack+%7C+SQL+%7C+Java+%7C+JavaScript;Linux+User+%F0%9F%90%A7" alt="Typing SVG" />
@@ -20,7 +20,7 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🔭 Atualmente atuando como **Estagiário de Dados** na [Saint-Gobain Brasil](https://www.saint-gobain.com.br/)
+- 🔭 Atualmente atuando como **Estagiário de Planejamento**
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**
 - 💡 Desenvolvo **automação de processos** e ferramentas em **Python**
 - 🖥️ Trabalho tanto com **Front-end** quanto **Back-end**
