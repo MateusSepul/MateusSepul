@@ -42,7 +42,7 @@
 
 **Mobile**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=android,kotlin" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin" />
 </p>
 
 **Dados & Banco de Dados**
@@ -52,8 +52,8 @@
 
 **IA & Análise de Dados**
 <p align="center">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 **Sistemas Operacionais**
