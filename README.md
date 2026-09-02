@@ -68,7 +68,8 @@
 ### 🚀 Projetos em destaque
 | Projeto | Descrição | Tecnologia |
 |---|---|---|
-| [**DungeonStylizer**](https://github.com/MateusSepul/DungeonStylizer) | Ferramenta que transforma fotos comuns em arte pixelada estilo RPG retrô dos anos 80 | HTML |
+| [**planilhas-auto**](https://github.com/MateusSepul/planilhas-auto) | Ferramenta desktop com interface gráfica para copiar dados entre planilhas Excel, mapeando colunas de origem para destino de forma visual — suporta salvar e reutilizar perfis de mapeamento | Python |
+| [**raytracer**](https://github.com/MateusSepul/raytracer) | Renderizador Ray Tracer simples e eficiente | C++17 |
 | [**Pinneddot**](https://github.com/MateusSepul/Pinneddot) | Mural coletivo de pins em tempo real — mensagens e desenhos fixados ao vivo | TypeScript |
 | [**verifica-noticia**](https://github.com/wallace-2105/verifica-noticia) | Plataforma de verificação de fake news com IA (GPT-4o): analisa textos/URLs e retorna veredito e confiabilidade — Projeto de TCC | JavaScript |
 | [**Hersafe-SecurityFast**](https://github.com/MateusSepul/Hersafe-SecurityFast) | Contribuição em projeto voltado à segurança (fork) | TypeScript |
