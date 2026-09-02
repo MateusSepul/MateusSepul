@@ -53,7 +53,7 @@
 **IA & Análise de Dados**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powerbi.svg" height="48" width="48" title="Power BI" />
 </p>
 
 **Sistemas Operacionais**
