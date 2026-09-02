@@ -1,5 +1,4 @@
 <h1 align="center">Olá, eu sou o Mateus 👋🐧</h1>
-
 <h3 align="center">Estagiário de Planejamento | Estudante de ADS | Dev Python & Automação</h3>
 
 <p align="center">
@@ -18,7 +17,6 @@
 ---
 
 ### 👨‍💻 Sobre mim
-
 - 🔭 Atualmente atuando como **Estagiário de Planejamento**
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**
 - 💡 Desenvolvo **automação de processos** e ferramentas em **Python**
@@ -32,14 +30,33 @@
 
 ### 🛠️ Stack principal
 
+**Linguagens**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,py,cpp,nodejs" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,py,c,cpp,nodejs" />
 </p>
 
+**Front-end & Back-end**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,docker,fastapi,mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=react,fastapi,nodejs,docker" />
 </p>
 
+**Mobile**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=android,kotlin" />
+</p>
+
+**Dados & Banco de Dados**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" />
+</p>
+
+**IA & Análise de Dados**
+<p align="center">
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
+</p>
+
+**Sistemas Operacionais**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,arch,debian,ubuntu" />
   <img src="https://devicons.io/devicons/icons/freebsd.svg" height="48" width="48" title="FreeBSD" />
@@ -49,7 +66,6 @@
 ---
 
 ### 🚀 Projetos em destaque
-
 | Projeto | Descrição | Tecnologia |
 |---|---|---|
 | [**DungeonStylizer**](https://github.com/MateusSepul/DungeonStylizer) | Ferramenta que transforma fotos comuns em arte pixelada estilo RPG retrô dos anos 80 | HTML |
@@ -61,14 +77,12 @@
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
-
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MateusSepul&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 📫 Como me encontrar
-
 <p align="center">
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
