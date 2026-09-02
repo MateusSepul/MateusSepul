@@ -86,7 +86,7 @@
 ### 📫 Como me encontrar
 <p align="center">
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
+  <a href="mailto:mateus06sepul@outlook.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
   <a href="https://github.com/MateusSepul"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
