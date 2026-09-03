@@ -76,6 +76,7 @@
   <img src="https://skillicons.dev/icons?i=arch" height="48" width="48" title="Arch Linux" />
   <img src="https://skillicons.dev/icons?i=debian" height="48" width="48" title="Debian" />
   <img src="https://skillicons.dev/icons?i=ubuntu" height="48" width="48" title="Ubuntu" />
+  <img src="https://skillicons.dev/icons?i=gentoo" height="48" width="48" title="Gentoo" />
   <img src="https://devicons.io/devicons/icons/freebsd.svg" height="48" width="48" title="FreeBSD" />
   <img src="https://skillicons.dev/icons?i=windows" height="48" width="48" title="Windows" />
 </p>
