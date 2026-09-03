@@ -32,35 +32,52 @@
 
 **Linguagens**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,py,c,cpp,nodejs" />
+  <img src="https://skillicons.dev/icons?i=ts" height="48" width="48" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js" height="48" width="48" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=java" height="48" width="48" title="Java" />
+  <img src="https://skillicons.dev/icons?i=py" height="48" width="48" title="Python" />
+  <img src="https://skillicons.dev/icons?i=c" height="48" width="48" title="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="48" width="48" title="C++" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="48" width="48" title="Node.js" />
 </p>
 
 **Front-end & Back-end**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,fastapi,nodejs,docker" />
+  <img src="https://skillicons.dev/icons?i=react" height="48" width="48" title="React" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="48" width="48" title="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="48" width="48" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=docker" height="48" width="48" title="Docker" />
 </p>
 
 **Mobile**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="48" width="48" title="Android Studio" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="48" width="48" title="Kotlin" />
 </p>
 
 **Dados & Banco de Dados**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" width="48" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="48" width="48" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="48" width="48" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="48" width="48" title="Supabase" />
 </p>
 
 **IA & Análise de Dados**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="48" width="48" title="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="48" width="48" title="PyTorch" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powerbi.svg" height="48" width="48" title="Power BI" />
 </p>
 
 **Sistemas Operacionais**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,debian,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=linux" height="48" width="48" title="Linux" />
+  <img src="https://skillicons.dev/icons?i=arch" height="48" width="48" title="Arch Linux" />
+  <img src="https://skillicons.dev/icons?i=debian" height="48" width="48" title="Debian" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="48" width="48" title="Ubuntu" />
   <img src="https://devicons.io/devicons/icons/freebsd.svg" height="48" width="48" title="FreeBSD" />
-  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=windows" height="48" width="48" title="Windows" />
 </p>
 
 ---
