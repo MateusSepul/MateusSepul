@@ -94,6 +94,10 @@
 
 ---
 
+“An idiot admires complexity, a genius admires simplicity” - Terry A. Davis
+
+---
+
 ### 📊 Estatísticas do GitHub
 <p align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MateusSepul&theme=tokyonight&hide_border=true" />
