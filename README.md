@@ -93,7 +93,7 @@
 | [**Hersafe-SecurityFast**](https://github.com/MateusSepul/Hersafe-SecurityFast) | Contribuição em projeto voltado à segurança (fork) | TypeScript |
 
 ---
-
+<p align="center">
 “An idiot admires complexity, a genius admires simplicity” - Terry A. Davis
 
 ---
