@@ -28,7 +28,7 @@
 
 ---
 
-### 🛠️ Stack principal
+### 🛠️ Stack Principal
 
 **Linguagens**
 <p align="center">
