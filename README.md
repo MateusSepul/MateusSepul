@@ -53,6 +53,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio" height="48" width="48" title="Android Studio" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="48" width="48" title="Kotlin" />
+  <img src="https://skillicons.dev/icons?i=react" height="48" width="48" title="React Native" />
 </p>
 
 **Dados & Banco de Dados**
