@@ -55,6 +55,11 @@
   <img src="https://skillicons.dev/icons?i=react" height="48" width="48" title="React Native" />
 </p>
 
+**Game Dev**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=godot" height="48" width="48" title="Godot" />
+</p>
+
 **Dados & Banco de Dados**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" height="48" width="48" title="MySQL" />
