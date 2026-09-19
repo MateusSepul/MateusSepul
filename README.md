@@ -55,13 +55,11 @@
   <img src="https://skillicons.dev/icons?i=react" height="48" width="48" title="React Native" />
 </p>
 <p align="center">
-  
 **Game Dev**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=godot" height="48" width="48" title="Godot" />
 </p>
 <p align="center">
-  
 **Dados & Banco de Dados**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" height="48" width="48" title="MySQL" />
@@ -70,7 +68,6 @@
   <img src="https://skillicons.dev/icons?i=supabase" height="48" width="48" title="Supabase" />
 </p>
 <p align="center">
-  
 **IA & Análise de Dados**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow" height="48" width="48" title="TensorFlow" />
@@ -78,7 +75,6 @@
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powerbi.svg" height="48" width="48" title="Power BI" />
 </p>
 <p align="center">
-  
 **Sistemas Operacionais**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux" height="48" width="48" title="Linux" />
