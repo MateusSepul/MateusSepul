@@ -27,7 +27,7 @@
 
 ---
 <p align="center">
-### m-t520:~$ 🛠️ Stack principal
+m-t520:~$ 🛠️ Stack principal
 <p align="center">
 Linguagens
 <p align="center">
