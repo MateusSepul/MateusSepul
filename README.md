@@ -26,7 +26,7 @@
 - ⚡ Interesses: dados, automação e desenvolvimento de software
 
 ---
-
+<p align="center">
 ### m-t520:~$ 🛠️ Stack principal
 <p align="center">
 Linguagens
