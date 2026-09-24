@@ -55,7 +55,7 @@ Mobile
   <img src="https://skillicons.dev/icons?i=react" height="48" width="48" title="React Native" />
 </p>
 <p align="center">
-m-t520:~$ Game Dev
+Game Dev
 <p align="center">
   <img src="https://skillicons.dev/icons?i=godot" height="48" width="48" title="Godot" />
 </p>
