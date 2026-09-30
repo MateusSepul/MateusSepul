@@ -177,4 +177,4 @@ lain@wired:~$ ./status.sh
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=00FF9C&center=true&vCenter=true&width=500&lines=Let's+all+love+Lain+%F0%9F%8C%80;Close+the+terminal.+Open+the+next." alt="footer" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,12,20&section=footer" width="100%" alt="footer wave" />
+<img src="assets/wired-footer.svg" width="100%" alt="Let's all love Lain" />
