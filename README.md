@@ -1,6 +1,6 @@
 <!-- Header animado (onda com gradiente estilo Wired) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0,2,12,20&text=Mateus%20%7C%20lain%40wired&fontColor=00ff9c&fontSize=44&fontAlignY=38&desc=Present%20day%2C%20present%20time.&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
+  <img src="assets/wired-header.svg" width="100%" alt="Mateus // lain@wired" />
 </p>
 
 <h1 align="center">Olá, eu sou o Mateus 👋🐧</h1>
