@@ -1,6 +1,6 @@
 <!-- Header animado (onda com gradiente estilo Wired) -->
 <p align="center">
-  <img src="assets/wired-header.svg" width="100%" alt="Mateus // lain@wired" />
+  <img src="assets/terminal-header.svg" width="100%" alt="mateus@m-t520:~$ neofetch" />
 </p>
 
 <h1 align="center">Olá, eu sou o Mateus 👋🐧</h1>
@@ -177,4 +177,4 @@ lain@wired:~$ ./status.sh
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=00FF9C&center=true&vCenter=true&width=500&lines=Let's+all+love+Lain+%F0%9F%8C%80;Close+the+terminal.+Open+the+next." alt="footer" />
 </p>
 
-<img src="assets/wired-footer.svg" width="100%" alt="Let's all love Lain" />
+<img src="assets/terminal-footer.svg" width="100%" alt="mateus@m-t520:~$ exit" />
