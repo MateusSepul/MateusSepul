@@ -1,6 +1,6 @@
 <!-- Header animado (onda com gradiente estilo Wired) -->
 <p align="center">
-  <img src="assets/terminal-header.svg" width="100%" alt="mateus@m-t520:~$ neofetch" />
+  <img src="assets/terminal-header.svg" width="100%" alt="mateus@m-t520:~$ fastfetch" />
 </p>
 
 <h1 align="center">Olá, eu sou o Mateus 👋🐧</h1>
@@ -151,13 +151,14 @@ lain@wired:~$ ./status.sh
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSepul&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" />
 </p>
 
+### 📈 htop
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MateusSepul&bg_color=0d1117&color=00ff9c&line=2e9ef7&point=ffffff&area=true&area_color=2e9ef7&hide_border=true" alt="Activity graph" />
+  <img src="assets/terminal-htop.svg" width="100%" alt="htop - stack em execução" />
 </p>
 
-### 🐍 Snake na Wired
+### 📁 ~/projetos
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MateusSepul/MateusSepul/output/github-snake-dark.svg" alt="snake" />
+  <img src="assets/terminal-projects.svg" width="100%" alt="ls -lh ~/projetos" />
 </p>
 
 ---
