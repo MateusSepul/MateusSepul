@@ -32,24 +32,6 @@
 
 ---
 
-### 🌐 Navi // conectado à Wired
-
-```bash
-lain@wired:~$ whoami
-mateus — estudante de ADS, dev Python & automação
-
-lain@wired:~$ cat /etc/motd
-"Present day, present time."
-
-lain@wired:~$ ./status.sh
-[ OK ] Linux ............ rodando
-[ OK ] Café ............. carregado
-[ OK ] Wired ............ conectado
-[WARN] Sono ............. não encontrado
-```
-
----
-
 ### 👨‍💻 Sobre mim
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**
 - 💡 Desenvolvo **automação de processos** e ferramentas em **Python**
