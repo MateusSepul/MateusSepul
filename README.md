@@ -32,6 +32,24 @@
 
 ---
 
+### 🌐 Navi // conectado à Wired
+
+```bash
+lain@wired:~$ whoami
+mateus — estudante de ADS, dev Python & automação
+
+lain@wired:~$ cat /etc/motd
+"Present day, present time."
+
+lain@wired:~$ ./status.sh
+[ OK ] Linux ............ rodando
+[ OK ] Café ............. carregado
+[ OK ] Wired ............ conectado
+[WARN] Sono ............. não encontrado
+```
+
+---
+
 ### 👨‍💻 Sobre mim
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**
 - 💡 Desenvolvo **automação de processos** e ferramentas em **Python**
@@ -152,8 +170,13 @@
   <a href="https://github.com/MateusSepul"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
+### 🎮 tetris.sh
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MateusSepul&style=flat-square&color=00ff9c" alt="visitor badge" />
+  <img src="assets/terminal-tetris.svg" width="100%" alt="Tetris jogando sozinho no terminal" />
+</p>
+
+<p align="center">
+  <img src="https://viewlet.livrasand.com/badge?page_id=MateusSepul.MateusSepul&style=flat-square" alt="Visitantes" />
 </p>
 
 <p align="center">
