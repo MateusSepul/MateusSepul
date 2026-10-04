@@ -22,32 +22,6 @@
   </a>
 </p>
 
-<!-- 
-  💡 Quer a Lain de fato aqui? Suba um GIF/imagem no repositório (ex: assets/lain.gif)
-  e descomente a linha abaixo:
--->
-<!--
-<p align="center"><img src="assets/lain.gif" width="320" alt="Lain" /></p>
--->
-
----
-
-### 🌐 Navi // conectado à Wired
-
-```bash
-lain@wired:~$ whoami
-mateus — estudante de ADS, dev Python & automação
-
-lain@wired:~$ cat /etc/motd
-"Present day, present time."
-
-lain@wired:~$ ./status.sh
-[ OK ] Linux ............ rodando
-[ OK ] Café ............. carregado
-[ OK ] Wired ............ conectado
-[WARN] Sono ............. não encontrado
-```
-
 ---
 
 ### 👨‍💻 Sobre mim
