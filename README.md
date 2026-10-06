@@ -154,7 +154,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=00FF9C&center=true&vCenter=true&width=500&lines=Let's+all+love+Lain+%F0%9F%8C%80;Close+the+terminal.+Open+the+next." alt="footer" />
-</p>
 
 <img src="assets/terminal-footer.svg" width="100%" alt="mateus@m-t520:~$ exit" />
