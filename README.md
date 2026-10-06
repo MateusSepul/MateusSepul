@@ -32,7 +32,6 @@
 - 🐧 Usuário fiel de **Linux** no dia a dia
 - 🌱 Sempre estudando novas tecnologias em **Linux, SQL, Python, Java, C++, JavaScript, TypeScript e Node.js**
 - ⚡ Interesses: dados, automação e desenvolvimento de software
-- 🌀 Fã de **Serial Experiments Lain** e da estética cyberpunk/Wired
 
 ---
 
