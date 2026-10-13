@@ -24,6 +24,24 @@
 
 ---
 
+### 🌐 Navi // conectado à Wired
+
+```bash
+lain@wired:~$ whoami
+mateus — estudante de ADS, dev Python & automação
+
+lain@wired:~$ cat /etc/motd
+"Present day, present time."
+
+lain@wired:~$ ./status.sh
+[ OK ] Linux ............ rodando
+[ OK ] Café ............. carregado
+[ OK ] Wired ............ conectado
+[WARN] Sono ............. não encontrado
+```
+
+---
+
 ### 👨‍💻 Sobre mim
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**
 - 💡 Desenvolvo **automação de processos** e ferramentas em **Python**
@@ -149,7 +167,7 @@
 </p>
 
 <p align="center">
-  <img src="https://viewlet.livrasand.com/badge?page_id=MateusSepul.MateusSepul&style=flat-square" alt="Visitantes" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MateusSepul.MateusSepul&left_text=Visitantes" alt="Visitantes" />
 </p>
 
 <p align="center">
