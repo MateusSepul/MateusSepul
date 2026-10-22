@@ -114,16 +114,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-<p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MateusSepul&theme=tokyonight&hide_border=true&ring=00ff9c&fire=ff3b6b&currStreakLabel=00ff9c" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MateusSepul&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=2e9ef7&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSepul&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" />
-</p>
-
 ### 📈 htop
 <p align="center">
   <img src="assets/terminal-htop.svg" width="100%" alt="htop - stack em execução" />
