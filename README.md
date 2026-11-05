@@ -133,10 +133,6 @@
   <a href="https://github.com/MateusSepul"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
-### 🎮 tetris.sh
-<p align="center">
-  <img src="assets/terminal-tetris.svg" width="100%" alt="Tetris jogando sozinho no terminal" />
-</p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MateusSepul.MateusSepul&left_text=Visitantes" alt="Visitantes" />
@@ -144,4 +140,3 @@
 
 <p align="center">
 
-<img src="assets/terminal-footer.svg" width="100%" alt="mateus@m-t520:~$ exit" />
