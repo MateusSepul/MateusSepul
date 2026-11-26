@@ -83,6 +83,7 @@
   <img src="https://skillicons.dev/icons?i=tensorflow" height="48" width="48" title="TensorFlow" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="48" width="48" title="PyTorch" />
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/stability-color.svg" height="48" width="48" title="Stable Diffusion" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claudecode-color.svg" height="48" width="48" title="Claude Code" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powerbi.svg" height="48" width="48" title="Power BI" />
 </p>
 
