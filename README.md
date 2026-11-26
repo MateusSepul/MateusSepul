@@ -81,7 +81,11 @@
 <h4 align="center">IA & Análise de Dados</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow" height="48" width="48" title="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="48" width="48" title="PyTorch" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powerbi.svg" height="48" width="48" title="Power BI" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Stable%20Diffusion-1A1A1A?style=for-the-badge&logoColor=white" height="28" title="Stable Diffusion" alt="Stable Diffusion" />
 </p>
 
 <h4 align="center">Sistemas Operacionais</h4>
@@ -139,4 +143,3 @@
 </p>
 
 <p align="center">
-
